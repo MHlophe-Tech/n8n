@@ -3,9 +3,7 @@
   "version": "1.23.0",
   "private": true,
   "homepage": "https://n8n.io",
-  "engines": {
-    "pnpm": ">=8.9"
-  },
+  
   "packageManager": "pnpm@8.9.0",
   "scripts": {
     "preinstall": "node scripts/block-npm-install.js",
